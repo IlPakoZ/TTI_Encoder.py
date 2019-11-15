@@ -6,6 +6,7 @@ Project: "TTI (Text To Image) Encoder"
 Release Date: 11/13/2019
 Language: English
 Programming Language: Python
+Actual Version: v0.0.2-alpha
 
 -------------------------------------------- README --------------------------------------------
 
